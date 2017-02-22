@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoBaseRecycler-master.iml" filepath="$PROJECT_DIR$/DemoBaseRecycler-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cptr/cptr.iml" filepath="$PROJECT_DIR$/cptr/cptr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-spinner-1.0.5/material-spinner-1.0.5.iml" filepath="$PROJECT_DIR$/material-spinner-1.0.5/material-spinner-1.0.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerlibrary/recyclerlibrary.iml" filepath="$PROJECT_DIR$/recyclerlibrary/recyclerlibrary.iml" />
+    </modules>
+  </component>
+</project>

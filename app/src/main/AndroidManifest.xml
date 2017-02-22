@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.demo.baserecyclerviewadapterhelper"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.PullToRefreshUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.AnimationUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.HeaderAndFooterUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.SectionUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.MultipleItemUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.EmptyViewUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.ItemDragAndSwipeUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.RecyclerClickItemActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.ExpandableUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.DataBindingUseActivity"/>
+        <activity android:name="com.demo.baserecyclerviewadapterhelper.ItemClickActivity">
+        </activity>
+    </application>
+
+</manifest>
