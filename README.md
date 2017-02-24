@@ -15,17 +15,17 @@ Android部件与拉刷新视图,并支持loadMore ListView,RecyclerView,GridView
 
 
 ####Demo个别效果截图
- <div> <img src='https://github.com/13226633937/BaseRecycler-master/tree/master/image/01.gif' width="270px"/></div>
+ <div> <img src='https://raw.githubusercontent.com/13226633937/BaseRecycler-master/master/image/01.gif' width="270px"/></div>
 
- <div> <img src='https://github.com/13226633937/BaseRecycler-master/tree/master/image/02.gif' width='270px'/> </div>
+ <div> <img src='https://raw.githubusercontent.com/13226633937/BaseRecycler-master/master/image/02.gif' width='270px'/> </div>
 
-<div> <img src='https://github.com/13226633937/BaseRecycler-master/tree/master/image/03.gif' width='270px'/> </div>
+<div> <img src='https://raw.githubusercontent.com/13226633937/BaseRecycler-master/master/image/03.gif' width='270px'/> </div>
 
 
 ####使用截图
- <div> <img src='https://github.com/13226633937/BaseRecycler-master/tree/master/image/04.gif' width="270px"/></div>
+ <div> <img src='https://raw.githubusercontent.com/13226633937/BaseRecycler-master/master/image/04.gif' width="270px"/></div>
 
- <div> <img src='https://github.com/13226633937/BaseRecycler-master/tree/master/image/05.gif' width='270px'/> </div>
+ <div> <img src='https://raw.githubusercontent.com/13226633937/BaseRecycler-master/master/image/05.gif' width='270px'/> </div>
 
 
 
