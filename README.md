@@ -14,8 +14,6 @@ Android部件与拉刷新视图,并支持loadMore ListView,RecyclerView,GridView
 * 支持自定义header以及footer
 
 
-<div> <img src='https://raw.githubusercontent.com/Chanven/CommonPullToRefresh/master/raw/main.png' width='270px'/> </div>
-
 ####Demo个别效果截图
  <div> <img src='https://github.com/13226633937/BaseRecycler-master/tree/master/image/01.gif' width="270px"/></div>
 
@@ -35,7 +33,9 @@ Android部件与拉刷新视图,并支持loadMore ListView,RecyclerView,GridView
 #### 处理GridLayoutManager问题
 在RecyclerAdapterWithHF中重写onAttachedToRecyclerView，onViewAttachedToWindow
 
- @Override
+
+
+    @Override
     public void onAttachedToRecyclerView(RecyclerView recyclerView) {
         WrapperUtils.onAttachedToRecyclerView(mAdapter, recyclerView, new WrapperUtils.SpanSizeCallback() {
             @Override
@@ -62,6 +62,7 @@ Android部件与拉刷新视图,并支持loadMore ListView,RecyclerView,GridView
             WrapperUtils.setFullSpan(holder);
         }
     }
+
 
 
 ## 常见问题
